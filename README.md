@@ -3,7 +3,7 @@
 The code in this toolbox implements "Newton Deep Unfolding for Compressed Sensing" by <i>C. He, X. Xiu</i>.
 
 ### Demo
-run train_demo.py for reproduction.
+run test_ndu_net.py for reproduction.
 
 
 ### Citation
