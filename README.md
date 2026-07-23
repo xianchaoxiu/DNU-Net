@@ -1,3 +1,10 @@
 # DNU-Net
 
-TBD
+The code in this toolbox implements "Newton Deep Unfolding for Compressed Sensing" by <i>C. He, X. Xiu</i>.
+
+### Demo
+run train_demo.py for reproduction.
+
+
+### Citation
+Please give credits to this paper if this code is useful and helpful for your research.
