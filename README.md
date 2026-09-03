@@ -10,3 +10,6 @@ run test_ndu_net.py for reproduction.
 
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.
+
+### Acknowledgement
+Please contact C. He for more details.
